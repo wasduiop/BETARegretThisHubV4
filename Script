@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wasduiop/BETARegretThisHubV4/refs/heads/main/Source"))()
